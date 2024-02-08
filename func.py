@@ -14,3 +14,7 @@ def mul(a, b):
     
 def new_func():
     print("Good bye....its done now")
+
+
+def new():
+    print('***********************************')
