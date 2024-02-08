@@ -12,3 +12,5 @@ def mul(a, b):
     print(a*b)
 
     
+def new_func():
+    print("Good bye....its done now")
