@@ -18,3 +18,8 @@ def new_func():
 
 def new():
     print('***********************************')
+
+
+def salary():
+    print('Your annual salry is 10lpa')
+    
